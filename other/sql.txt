@@ -1,0 +1,18 @@
+create database learn_spring_mvc_with_real_apps;
+
+INSERT INTO `product` (`id`, `name`, `price`, `quantity`, `status`, `photo`) VALUES 
+('AC', 'MASK1', 1, 222, 1, 'm1.jpg'), 
+('AL', 'MASK2', 2, 0, 0, 'm2.jpg'), 
+('CA', 'MASK3', 1, 234, 1, 'm3.jpg'), 
+('CT', 'MASK4', 10, 222, 1, 'm4.jpg'), 
+('NY', 'MASK1', 1, 222, 1, 'm1.jpg'),
+('FL', 'MASK1', 1, 222, 1, 'm1.jpg'), 
+('IL', 'MASK2', 2, 0, 0, 'm2.jpg'), 
+('KS', 'MASK3', 1, 234, 1, 'm3.jpg'), 
+('MA', 'MASK4', 10, 222, 1, 'm4.jpg'), 
+('MO', 'MASK1', 1, 222, 1, 'm1.jpg'),
+('OK', 'MASK1', 1, 222, 1, 'm1.jpg'), 
+('PA', 'MASK2', 2, 0, 0, 'm2.jpg'), 
+('SC', 'MASK3', 1, 234, 1, 'm3.jpg'), 
+('WA', 'MASK4', 10, 222, 1, 'm4.jpg'), 
+('WY', 'MASK1', 1, 222, 1, 'm1.jpg');
