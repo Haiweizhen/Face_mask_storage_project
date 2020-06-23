@@ -1,4 +1,4 @@
-## Fasce Mask_Storage Project
+## Face Mask_Storage Project
 An web application based on Spring MVC that supports checking face mask storage<br>
 Used Spring Data JPA to access data from MySQL database<br>
 Used JQuery DataTable to display the data in a tabular form<br>
